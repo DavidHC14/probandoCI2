@@ -20,4 +20,4 @@ jobs:
           java-version: '17'
           cache: 'maven'
       - name: Build with Maven, run tests
-        run: mvn -B clean test
+        run: mvn clean install -DskipTests=false

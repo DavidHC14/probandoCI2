@@ -5,11 +5,11 @@ public class Auto {
     private int v;
 
     public boolean arrancar(){
-        return false;
+        return true;
     }
 
     public boolean detenerse(){
-        return false;
+        return true;
     }
 
 }

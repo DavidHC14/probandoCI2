@@ -7,4 +7,9 @@ public class Auto {
     public boolean arrancar(){
         return true;
     }
+
+    public boolean detenerse(){
+        return false;
+    }
+
 }

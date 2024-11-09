@@ -5,6 +5,6 @@ public class Auto {
     private int v;
 
     public boolean arrancar(){
-        return false;
+        return true;
     }
 }

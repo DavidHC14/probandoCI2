@@ -17,5 +17,4 @@ public class AutoTest {
         Auto auto = new Auto();
         assertTrue(auto.detenerse());
     }
-
 }

@@ -9,7 +9,7 @@ public class Auto {
     }
 
     public boolean detenerse(){
-        return false;
+        return true;
     }
 
 }
